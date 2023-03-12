@@ -30,6 +30,7 @@ body {
 	max-width: 100%;
     background-repeat: no-repeat;
     background-size: contain;
+    background-position: center top;
 }
 
 .slide1 {
